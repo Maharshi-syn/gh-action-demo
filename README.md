@@ -1,2 +1,2 @@
 # gh-action-demo
-Updated readme for testing react app
+Updated readme for testing react app.
